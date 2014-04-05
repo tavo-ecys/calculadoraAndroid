@@ -1,0 +1,96 @@
+# view AndroidManifest.xml #generated:20
+-keep class com.dalviksoft.calculator.Main { <init>(...); }
+
+# view AndroidManifest.xml #generated:31
+-keep class com.purplebrain.adbuddiz.sdk.AdBuddizActivity { <init>(...); }
+
+# onClick res/layout/main.xml #generated:361
+-keepclassmembers class * { *** onClickListener0(...); }
+
+# onClick res/layout/main.xml #generated:310
+-keepclassmembers class * { *** onClickListener1(...); }
+
+# onClick res/layout/main.xml #generated:321
+-keepclassmembers class * { *** onClickListener2(...); }
+
+# onClick res/layout/main.xml #generated:332
+-keepclassmembers class * { *** onClickListener3(...); }
+
+# onClick res/layout/main.xml #generated:259
+-keepclassmembers class * { *** onClickListener4(...); }
+
+# onClick res/layout/main.xml #generated:270
+-keepclassmembers class * { *** onClickListener5(...); }
+
+# onClick res/layout/main.xml #generated:281
+-keepclassmembers class * { *** onClickListener6(...); }
+
+# onClick res/layout/main.xml #generated:208
+-keepclassmembers class * { *** onClickListener7(...); }
+
+# onClick res/layout/main.xml #generated:219
+-keepclassmembers class * { *** onClickListener8(...); }
+
+# onClick res/layout/main.xml #generated:230
+-keepclassmembers class * { *** onClickListener9(...); }
+
+# onClick res/layout/main.xml #generated:241
+-keepclassmembers class * { *** onClickListenerDivide(...); }
+
+# onClick res/layout/main.xml #generated:383
+-keepclassmembers class * { *** onClickListenerEqual(...); }
+
+# onClick res/layout/main.xml #generated:424
+-keepclassmembers class * { *** onClickListenerExit(...); }
+
+# onClick res/layout/main.xml #generated:343
+-keepclassmembers class * { *** onClickListenerMinus(...); }
+
+# onClick res/layout/main.xml #generated:292
+-keepclassmembers class * { *** onClickListenerMultiply(...); }
+
+# onClick res/layout/main.xml #generated:394
+-keepclassmembers class * { *** onClickListenerPlus(...); }
+
+# onClick res/layout/main.xml #generated:372
+-keepclassmembers class * { *** onClickListenerPoint(...); }
+
+# onClick res/layout/main.xml #generated:437
+-keepclassmembers class * { *** onClickListenerReset(...); }
+
+# onClick res/layout/main.xml #generated:86
+-keepclassmembers class * { *** onClickListener_bin(...); }
+
+# onClick res/layout/main.xml #generated:42
+-keepclassmembers class * { *** onClickListener_cos(...); }
+
+# onClick res/layout/main.xml #generated:98
+-keepclassmembers class * { *** onClickListener_dec(...); }
+
+# onClick res/layout/main.xml #generated:66
+-keepclassmembers class * { *** onClickListener_del(...); }
+
+# onClick res/layout/main.xml #generated:110
+-keepclassmembers class * { *** onClickListener_hex(...); }
+
+# onClick res/layout/main.xml #generated:122
+-keepclassmembers class * { *** onClickListener_oct(...); }
+
+# onClick res/layout/main.xml #generated:178
+-keepclassmembers class * { *** onClickListener_pi(...); }
+
+# onClick res/layout/main.xml #generated:154
+-keepclassmembers class * { *** onClickListener_qube(...); }
+
+# onClick res/layout/main.xml #generated:166
+-keepclassmembers class * { *** onClickListener_root(...); }
+
+# onClick res/layout/main.xml #generated:30
+-keepclassmembers class * { *** onClickListener_sin(...); }
+
+# onClick res/layout/main.xml #generated:142
+-keepclassmembers class * { *** onClickListener_squared_2(...); }
+
+# onClick res/layout/main.xml #generated:54
+-keepclassmembers class * { *** onClickListener_tan(...); }
+
