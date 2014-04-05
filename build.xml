@@ -10,7 +10,7 @@
     <property environment="env"/>
   <property name="jmeter-home" location="${env.JMETER_DIR}"/>
 
-  <!-- ant-jmeter.jar comes with jmeter, be sure this is the release you have
+  ant-jmeter.jar comes with jmeter, be sure this is the release you have
   <path id="ant.jmeter.classpath">
     <pathelement
        location="${jmeter-home}/extras/ant-jmeter-1.0.9.jar" />
