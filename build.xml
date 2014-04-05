@@ -6,11 +6,11 @@
          Version Control Systems. -->
 
 
-
+<!--
     <property environment="env"/>
   <property name="jmeter-home" location="${env.JMETER_DIR}"/>
 
-  <!-- ant-jmeter.jar comes with jmeter, be sure this is the release you have -->
+  <!-- ant-jmeter.jar comes with jmeter, be sure this is the release you have
   <path id="ant.jmeter.classpath">
     <pathelement
        location="${jmeter-home}/extras/ant-jmeter-1.0.9.jar" />
@@ -35,7 +35,7 @@
       <testplans dir="test/jmeter" includes="*.jmx"/>
     </jmeter>
   </target>
-
+-->
   <!-- This is not needed for the plugin, but it produces a nice html report
        which can be saved usin hudson's archive artifact feature -->
   <target name="report" depends="test">
